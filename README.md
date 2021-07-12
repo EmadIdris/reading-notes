@@ -10,14 +10,11 @@ My name is Emad Idris, I am 23 years old and I am Palestinian. I graduated with 
 # Fixed & Growth Mindset Differences
 > *Why waste time proving over and over how great you are, when you could be getting better? Why hide deficiencies instead of overcoming them? Why look for friends or partners who will just shore up your self-esteem instead of ones who will also challenge you to grow? And why seek out the tried and true, instead of experiences that will stretch you?*
 
-# 3 Reminders to Yourself of How to Keep Yourself in a Growth Mindset
+# 3 Reminders To Keep Your Growth Mindset During The Day:
 1. Acknowledge and embrace imperfections.
 2. Celebrate growth with others.
 3. Disassociate improvement from failure.
 
 ![Comparison between Growth Mindset and Fixed Mindset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
 
-# Github
-> GitHub allows developers to host their files in a ‘Git Repository’ so that other people can collaborate on projects with them, whether they are open for public contribution (open source) or closed for specific colleagues to work on a private project. The idea is not dissimilar to the way Google Docs lets you host your word processing and spreadsheet files and opens them up for collaboration, though developers do not work on the same documents together in real time or make changes directly in the browser. 
 
-![Github](https://camo.githubusercontent.com/9c6f74a2efdd63a412dd405835338a0f3a4f8ed022cb4af2b6cb640a58e68053/68747470733a2f2f6c616d616368696e657269652e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30362f6769746875622e6a7067)
